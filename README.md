@@ -5,6 +5,6 @@ Part of the Bachelor Thesis Project, covers both serial and parallel implementat
 3) Number of Hidden Layers/Neurons can also be set <br/>
 4) Other parameters inlclude Transfer Functions(so far 3), normalization of data, bias value, maximum allowed error(not yet completed) and maximum iteration numbers <br/>
 
-Implementation:
+Implementation: TODO
 <br/>
 Used Pybrain python library. Refer: http://pybrain.org/<br/>
